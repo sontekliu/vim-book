@@ -10,4 +10,12 @@
     * [4.3 移动到指定行](4/03_move_to_assign_line.md)
     * [4.4 屏内移动](4/04_move_in_screen.md)
     * [4.5 移动屏幕](4/05_move_on_screen.md)
+* [5. 编辑](5/README.md)
+    * [5.1 操作符与动作](5/operate_action.md)
+    * [5.2 替换命令与替换模式](5/replace_replace_model.md)
+    * [5.3 可视模式](5/visual_model.md)
+    * [5.4 文本对象](5/text_objects.md)
+* [6. Vim 配置](6/README.md)
+    * [6.1 Vim 配置文件](6/vim_config.md)
+    * [6.2 Vim 配置示例](6/vimrc.md)
 
